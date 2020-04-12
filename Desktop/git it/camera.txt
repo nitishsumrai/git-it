@@ -1,1 +1,1 @@
-add camera
+add  dual camera
